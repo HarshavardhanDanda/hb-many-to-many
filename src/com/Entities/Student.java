@@ -1,4 +1,4 @@
-package com.mappings;
+package com.Entities;
 
 import javax.persistence.*;
 import java.util.ArrayList;
